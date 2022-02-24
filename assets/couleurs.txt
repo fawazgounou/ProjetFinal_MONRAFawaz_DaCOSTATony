@@ -1,0 +1,14 @@
+Page 1
+=================
+gradient : [#525F67, #000000]
+blanc : #232B2E
+
+
+Page 2
+=================
+
+gris-haut: #90A7B4
+noir-centre: #000000
+vert: #69F0AE
+rouge: #D8392B
+gris-bas: #B0B7BF
